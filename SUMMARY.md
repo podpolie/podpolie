@@ -17,7 +17,7 @@
 ## Средства
 
 * [Коктейль молотова](sredstva/kokteil-molotova.md)
-* [Димовая шашка](sredstva/dimovaya-shashka.md)
+* [Дымовая шашка](sredstva/dymovaya-shashka.md)
 * [Самопал](sredstva/samopal.md)
 
 ## О ресурсе
