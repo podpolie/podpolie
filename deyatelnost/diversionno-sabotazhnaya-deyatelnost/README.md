@@ -5,28 +5,29 @@ coverY: 124.69999999999999
 
 # Диверсионно-саботажная деятельность
 
-## Our Vision
+## У страха глаза велики
 
-{% hint style="info" %}
-**Good to know:** a good vision statement shows the long-term goals of the company without getting too deep into strategy, implementation, or product specifics.
-{% endhint %}
+> Закон о фейках, репрессии, задержания за невидимый плакат...
 
-Our company vision is to **be the authoritative reference point for environmentally conscious buyers** and to **encourage more sustainable business practices** through curating beautiful, practical, consciously-produced products.
+**Мордор в ужасе.** С дрожащими коленками и иными признаками безумного страха и паники, присущими безчестной и слабовольной гниде вместе с его режимом.
 
-## Our Values
+Только в таких случаях режим прибегает к подобным, унизительным, в первую очередь для самого режима, мерам абсолютно пресекая любые проявления человечности и воли.
 
-{% hint style="info" %}
-**Good to know:** company values are statements about how you approach work; how you treat colleagues, customers and users; and what your company stands for.
-{% endhint %}
+И не зря.
 
-### Be Compassionate
+Не зря, ведь воля сильного народа непоколебима. Сильный и мужественный народ не терпит трусливых самозванцев. Народ чести и достоинства не пойдет на гибель убивать невинных по вожделению трусливых безумцев.
 
-We treat everyone we encounter with compassion, seeing the humanity behind their problems and experiences.
+Сильный и мужественный народ восстанет против. И ответит.
 
-### Be Mindful
+## Задачи
 
-We do not take advantage of our users' attention and adopt mindful working practices so that we can create safe spaces both in our working environment and in our products themselves.
+* Нанести ущерб инфраструктуре режима, предпологающей ведение войны и привлечение мобилизационных ресурсов.&#x20;
+* Нанести ущерб инфраструктуре, влекущей гнет и преследование граждан
+* Нанести ущерб в местах лишения прав и свободы угнетенных
 
-### Research First
+## Цели
 
-We challenge our own and others' assumptions through qualitative and quantitative research. Not sure about an idea? Test it.
+* Рельсы
+* Военкоматы
+* Камеры
+* Свастика
