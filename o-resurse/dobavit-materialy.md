@@ -6,10 +6,8 @@ coverY: 0
 
 # Добавить материалы
 
-To get reimbursed for your expenses, just fill in our simple form and we'll get it approved!
+Просим всех желающих присоеденится к наполнению справочника:
 
-{% hint style="info" %}
-**Good to know:** you can embed public links, like this Typeform, to make data capture a breeze!
-{% endhint %}
+{% embed url="https://github.com/podpolie/podpolie" %}
 
-{% embed url="https://2w3pnm4iy73.typeform.com/to/e51Urcwb" %}
+Просто делайте pull requests в основную ветку. Желательно в md формате, можно и просто текст или ссылку. Позже сделаем полный гайд.
